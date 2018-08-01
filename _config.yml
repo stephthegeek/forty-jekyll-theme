@@ -2,7 +2,7 @@
 title: Stephanie Pakrul
 subtitle: portfolio
 email: stephthegeek@gmail.com
-description: Twenty-two years of creating on the web goes by in a <blink>!<br /><br />An eclectic exhibit of recent works.
+description: Twenty-two years of creating on the web goes by in a &lt;blink&gt;!<br /><br />An eclectic exhibit of recent works.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Stephanie Pakrul
