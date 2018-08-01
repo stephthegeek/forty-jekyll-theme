@@ -2,11 +2,11 @@
 title: Stephanie Pakrul
 subtitle: portfolio
 email: stephthegeek@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Twenty-two years of creating on the web goes by in a <blink>!<br /><br />An eclectic exhibit of recent works.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 3491 20th St
+author: Stephanie Pakrul
+street_address: 3491 20th St (20mission)
 city: San Francisco
 state: CA
 zip_code: 94110
@@ -31,7 +31,7 @@ instagram_url: https://www.instagram.com/stephthegeek/
 linkedin_url: https://www.linkedin.com/in/stephthegeek/
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url: https://twitter.com/stephthegeek
 
 # build settings
 markdown: kramdown
