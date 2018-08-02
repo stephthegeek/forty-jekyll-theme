@@ -1,3 +1,11 @@
 #main .tiles article {
   background-position: top;
 }
+
+#education + ul {
+  list-style: none;
+}
+
+.two-col {
+  column-count: 2;
+}
