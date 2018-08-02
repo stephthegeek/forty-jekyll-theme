@@ -24,6 +24,9 @@
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		<p>{{ content }}</p>
+		{% for tag in tags %}
+		<a href="#{{ tag | slugify }}"> {{ tag }} </a>
+		{% endfor %}
 	</div>
 </section>
 
