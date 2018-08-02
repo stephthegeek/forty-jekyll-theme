@@ -2,8 +2,9 @@
 layout: post
 title: AIML Tutorials
 description: Technical articles posted on Medium.com
-categories: personal ai writing
+categories: writing
+tags: [personal, experiences, design, writing]
 image: assets/images/portfolio/aiml-articles.png
 ---
 
-Description goes here.
+A popular series of tutorial articles about AIML basics and creating a virtual identity avatar using the AIML language. 
