@@ -17,6 +17,15 @@ phone:
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 30
 
+# add organization
+collections:
+  my_categories:
+    output: true
+    permalink: /category/:name/
+  my_tags:
+    output: true
+    permalink: /tag/:name/
+
 # contact form settings
 form_url: https://formspree.io/stephthegeek@gmail.com # endpoint URL to receive contact form submissions
 form_email_name: _replyto # value of the "name" attribute in the "email" field
