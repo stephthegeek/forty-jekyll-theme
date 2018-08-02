@@ -19,6 +19,7 @@ author: null
 * SEO
 * Usability / UX
 * A passion for intentional communities, mental health, emoji, and elevating the art of the selfie
+{: .two-col}
 
 ### Education
 * **Masters of Information Management & Systems** | *University of California, Berkeley, California*
