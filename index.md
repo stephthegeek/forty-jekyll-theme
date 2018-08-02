@@ -8,6 +8,7 @@ author: null
 ---
 
 *Lifelong entrepreneur & jack-of-all-trades*
+{: style="text-align:center"}
 
 * Front end web development
 * Graphic design
@@ -19,7 +20,7 @@ author: null
 * SEO
 * Usability / UX
 * A passion for intentional communities, mental health, emoji, and elevating the art of the selfie
-{: .two-col}
+{: .two-col .alt}
 
 ### Education
 * **Masters of Information Management & Systems** | *University of California, Berkeley, California*
