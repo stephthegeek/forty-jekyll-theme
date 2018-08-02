@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: tags
 title: Posts by tag
 landing-title: 'Posts by tag landing title'
 nav-menu: true
