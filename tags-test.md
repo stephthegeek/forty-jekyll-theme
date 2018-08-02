@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: tags-test
 title: Posts by tag
 landing-title: 'Posts by tag landing title'
 nav-menu: true
