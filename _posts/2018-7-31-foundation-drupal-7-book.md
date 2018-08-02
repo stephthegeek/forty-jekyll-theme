@@ -3,6 +3,7 @@ layout: post
 title: Foundation Drupal 7
 description: Co-authored Drupal CMS book
 categories: writing drupal
+tags: [writing, web development]
 image: assets/images/portfolio/foundation-drupal-7-book-cover.jpg
 ---
 
