@@ -16,6 +16,10 @@
   column-gap: 40px;
 }
 
-.front-icons {
-  font-size: 250%;
+#wrapper #banner>.inner .content ul.front-icons {
+  font-size: 1.2em;
+}
+
+#wrapper #banner>.inner .content p {
+  font-size: 1em;
 }
