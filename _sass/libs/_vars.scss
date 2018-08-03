@@ -22,8 +22,8 @@
 	$font: (
 		family:				('Archivo Narrow', Helvetica, sans-serif),
 		family-fixed:		('Courier New', monospace),
-		weight:				300,
-		weight-bold:		600,
+		weight:				400,
+		weight-bold:		700,
 		letter-spacing:		0.025em,
 		letter-spacing-alt:	0.25em
 	);
@@ -35,13 +35,13 @@
 		fg:				#ffffff,
 		fg-bold:			#ffffff,
 		fg-light:			rgba(244,244,255,0.2),
-		border:				rgba(212,212,255,0.1),
-		border-bg:			rgba(212,212,255,0.035),
+		border:				rgba(212,212,230,0.1),
+		border-bg:			rgba(212,212,230,0.035),
 		highlight:			#9bf1ff,
-		accent1:			#6fc3df,
-		accent2:			#8d82c4,
-		accent3:			#ec8d81,
-		accent4:			#e7b788,
-		accent5:			#8ea9e8,
-		accent6:			#87c5a4
+		accent1:			#BCBDAC,
+		accent2:			#CFBE27,
+		accent3:			#F27435,
+		accent4:			#F02475,
+		accent5:			#35B9A4,
+		accent6:			#3B2D38
 	);
