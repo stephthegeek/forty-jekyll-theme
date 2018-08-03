@@ -17,7 +17,16 @@
 }
 
 #wrapper #banner>.inner .content ul.front-icons {
+  font-family: 'Archivo Narrow', Helvetica, sans-serif;
   font-size: 1.2em;
+}
+
+#wrapper #banner>.inner .content ul.front-icons i {
+  padding-right: 15px;
+}
+
+#banner ul.front-icons {
+  list-style: none;
 }
 
 #wrapper #banner>.inner .content p {
