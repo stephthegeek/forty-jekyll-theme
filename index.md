@@ -20,9 +20,11 @@ author: null
 * SEO
 * Usability / UX
 * A passion for intentional communities, mental health, emoji, and elevating the art of the selfie
-{: .two-col .alt}
+{: .two-col}
 
-### Education
+- - -
+
+## Education
 * **Masters of Information Management & Systems** | *University of California, Berkeley, California*
   * Areas of interest: radical personal transparency, mobile technology, quantified self, law & online privacy, UI design
 * **Bachelor of Commerce, Information Technology Management** | *Ryerson University, Toronto, Canada*
