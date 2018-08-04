@@ -2,15 +2,15 @@
 title: Stephanie Pakrul
 subtitle: portfolio
 email: stephthegeek@gmail.com
-description: Twenty-two years of creating on the web goes by in a &lt;blink&gt;!<br /><br />An eclectic exhibit of recent works.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+description: Twenty-two years of creating on the web goes by in a &lt;blink&gt;! <br /><br />An eclectic exhibit of recent works.
+baseurl: # the subpath of your site, e.g. /blog
+url: http://portfolio.stephthegeek.com # the base hostname & protocol for your site
 author: Stephanie Pakrul
 street_address: 3491 20th St (20mission)
 city: San Francisco
 state: CA
-zip_code: 94110
-country: United States of America
+zip_code: 
+country: 
 phone: 
 
 # homepage tiles
