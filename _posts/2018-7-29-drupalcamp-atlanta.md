@@ -6,4 +6,4 @@ categories: projectmanagement drupal
 image: assets/images/portfolio/drupalcamp-atlanta.png
 ---
 
-
+Description goes here.
