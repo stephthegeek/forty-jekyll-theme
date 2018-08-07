@@ -6,4 +6,4 @@ categories: personal writing
 image: assets/images/portfolio/psychospiritual-emergency.png
 ---
 
-Description goes here.
+A hauntingly intimate account inside a psychotic break. 

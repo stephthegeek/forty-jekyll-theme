@@ -6,4 +6,4 @@ categories: personal photography
 image: assets/images/portfolio/photography.jpg
 ---
 
-Description goes here.
+A selection of my photography is available for license. I specialize in candid, documentary-style photography and pushing the limits of mobile devices for both shooting and editing. 

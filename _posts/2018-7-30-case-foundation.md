@@ -6,4 +6,3 @@ categories: projectmanagement drupal
 image: assets/images/portfolio/case-foundation.png
 ---
 
-Description goes here.
